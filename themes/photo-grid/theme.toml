@@ -1,0 +1,16 @@
+name = "Photo Grid"
+license = "MIT License"
+licenselink = "https://github.com/chen-zhe/photo-grid/blob/master/LICENSE.md"
+description = "A Photography-centric responsive grid gallery with deep content management integration with Hugo. Based on Hugrid"
+homepage = "https://github.com/chen-zhe/photo-grid"
+tags = ["gallery", "photography", "content management", "google analytics"]
+min_version = "0.59.0"
+
+[author]
+  name = "Chen Zhe"
+  homepage = "https://chen-zhe.github.io"
+
+[original]
+  name = "Hugrid"
+  homepage = "https://themes.gohugo.io/theme/hugrid/"
+  repo = "https://github.com/aerohub/hugrid"

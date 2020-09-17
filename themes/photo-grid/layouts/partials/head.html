@@ -1,0 +1,34 @@
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>{{ .Site.Title }}</title>
+		<meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}" />
+		<meta name="keywords" content="{{ with .Site.Params.keywords }}{{ . }}{{ end }}" />
+		<meta name="author" content="{{ with .Site.Params.author }}{{ . }}{{ end }}" />
+		{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">{{ end }}
+		{{ hugo.Generator }}
+		<style>
+		body {
+			background: {{ .Site.Params.bodybgcolor }};
+			color: {{ .Site.Params.bodytextcolor }};
+		}
+		a {
+			color: {{ .Site.Params.bodytextcolor }};
+		}
+		button {
+			color: {{ .Site.Params.bodytextcolor }};
+		}
+		</style>
+		<!-- <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:300,400,700" /> -->
+		<!-- <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&subset=latin-ext" />
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:300,400,700"> -->
+		<link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@400&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@700&display=swap" rel="stylesheet">
+		<!-- "https://fonts.googleapis.com/css?family=Lato&subset=latin-ext" -->
+		<link rel="stylesheet" type="text/css" href="{{ "css/default.css" | absURL }}" />
+		<link rel="stylesheet" type="text/css" href="{{ "css/component.css" | absURL }}" />
+		{{ range .Site.Params.custom_css }}
+			<link rel="stylesheet" href="{{ . }}">
+		{{ end }}
+		<script src="{{ "js/modernizr.custom.js" | absURL }}"></script>
