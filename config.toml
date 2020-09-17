@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "http://example.org/"
-languageCode = "en-us"
-title = "Photo Grid - Grid Gallery For Hugo"
+baseurl = "http://example.org/" #"https://data4sci.github.io/fotoalbum/"
+languageCode = "cs-CZ"
+title = "Svatba Vendy & Jirka"
 theme = "photo-grid"
 
 # Enter your tracking code to enable Google Analytics
@@ -9,16 +9,16 @@ theme = "photo-grid"
 
 [params]
     # Meta
-    no_exif = false
-    title = "Photo Grid - Grid Gallery"
-    subtitle = "A customized theme for showing your photography work with minimal effort and multiple customization options. Click on each image to find out more about this theme"
-    author = "Chen Zhe"
-    description = "Photo Grid - Grid Gallery For Hugo"
-    keywords = "Hugo, Hugo theme, grid theme, gallery"
+    no_exif = true
+    title = "Svatba Vendy & Jirka"
+    subtitle = "příliš žluťoučký kůň úpěl ďábelské ódy 1234567890 \nPŘÍLIŠ ŽLUŤOUČKÝ KŮŇ ÚPĚL ĎÁBELSKÉ ÓDY `@$~^&*{}°%"
+    author = "Robik & Ka"
+    description = "Commodo aute fugiat reprehenderit quis minim adipisicing ex exercitation."
+    keywords = "Svatba, Wedding, Photo, Gallery"
 
     # Body background and  text color
-    bodybgcolor = "#3d3d3d"
+    bodybgcolor = "#3d3d3d" #"#DADADB" #"#6A6C6E"#
     bodytextcolor = "#f2f2f2"
 
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io), [Pavel](https://themes.gohugo.io/hugrid/) and [me](https://chen-zhe.github.io)."
+    footertext = "Made with love by [Karin](https://www.instagram.com/kariko_design/) a [Bob](http://linkedin.com/WWWWWWWWWWW). \n (C) 2020"
