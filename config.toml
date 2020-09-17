@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://data4sci.github.io/fotoalbum/docs/"
+baseurl = "https://data4sci.github.io/fotoalbum/"
 languageCode = "cs-CZ"
 title = "Svatba Vendy & Jirka"
 theme = "photo-grid"
