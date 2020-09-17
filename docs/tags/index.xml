@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Svatba Vendy &amp; Jirka</title>
-    <link>https://data4sci.github.io/fotoalbum/tags/</link>
+    <link>https://data4sci.github.io/fotoalbum/docs/tags/</link>
     <description>Recent content in Tags on Svatba Vendy &amp; Jirka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cs-CZ</language><atom:link href="https://data4sci.github.io/fotoalbum/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>cs-CZ</language><atom:link href="https://data4sci.github.io/fotoalbum/docs/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
