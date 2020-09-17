@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://example.org/" #"https://data4sci.github.io/fotoalbum/"
+baseurl = "https://data4sci.github.io/fotoalbum/"
 languageCode = "cs-CZ"
 title = "Svatba Vendy & Jirka"
 theme = "photo-grid"
