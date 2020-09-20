@@ -3,26 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://data4sci.github.io/fotoalbum/photo/</loc>
-    <lastmod>2020-09-17T20:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://data4sci.github.io/fotoalbum/photo/2/</loc>
-    <lastmod>2020-09-17T20:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://data4sci.github.io/fotoalbum/</loc>
-    <lastmod>2020-09-17T20:33:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://data4sci.github.io/fotoalbum/photo/1/</loc>
+    <loc>https://data4sci.github.io/fotoalbum/photo/svatba/</loc>
   </url>
   
   <url>
     <loc>https://data4sci.github.io/fotoalbum/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://data4sci.github.io/fotoalbum/photo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://data4sci.github.io/fotoalbum/</loc>
   </url>
   
   <url>

@@ -11,7 +11,7 @@ theme = "photo-grid"
     # Meta
     no_exif = true
     title = "Svatba Vendy & Jirka"
-    subtitle = "příliš žluťoučký kůň úpěl ďábelské ódy 1234567890 \nPŘÍLIŠ ŽLUŤOUČKÝ KŮŇ ÚPĚL ĎÁBELSKÉ ÓDY `@$~^&*{}°%"
+    subtitle = "12. září 2020 | Hotel Belaria Resort ***"
     author = "Robik & Ka"
     description = "Commodo aute fugiat reprehenderit quis minim adipisicing ex exercitation."
     keywords = "Svatba, Wedding, Photo, Gallery"
@@ -21,4 +21,4 @@ theme = "photo-grid"
     bodytextcolor = "#f2f2f2"
 
     # Footer text
-    footertext = "Made with love by [Karin](https://www.instagram.com/kariko_design/) a [Bob](http://linkedin.com/WWWWWWWWWWW). \n (C) 2020"
+    footertext = "Made with love by [Karin](https://kotalka.github.io/KARIKO/) a Rob. <br> (C) 2020"
