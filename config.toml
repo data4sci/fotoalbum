@@ -11,7 +11,7 @@ theme = "photo-grid"
     # Meta
     no_exif = true
     title = "Svatba Vendy & Jirka"
-    subtitle = "12. září 2020 | Hotel Belaria Resort ***"
+    subtitle = "" #"12. září 2020 | Belaria Resort"
     author = "Robik & Ka"
     description = "Commodo aute fugiat reprehenderit quis minim adipisicing ex exercitation."
     keywords = "Svatba, Wedding, Photo, Gallery"
