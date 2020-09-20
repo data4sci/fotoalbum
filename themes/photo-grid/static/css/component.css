@@ -50,7 +50,6 @@
 
 .og-expander-inner {
 	padding: 80px 5px 120px 5px;
-	height: 100%;
 }
 
 .og-close {
@@ -89,7 +88,6 @@
 .og-fullimg,
 .og-details {
 	float: left;
-	height: 100%;
 	overflow: hidden;
 	position: relative;
 }
