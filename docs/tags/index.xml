@@ -5,10 +5,6 @@
     <link>https://data4sci.github.io/fotoalbum/tags/</link>
     <description>Recent content in Tags on Svatba Vendy &amp; Jirka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cs-CZ</language>
-    
-	<atom:link href="https://data4sci.github.io/fotoalbum/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>cs-CZ</language><atom:link href="https://data4sci.github.io/fotoalbum/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
